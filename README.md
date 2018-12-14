@@ -6,7 +6,7 @@ Feel free to contribute!
 ## Programming
 ### Python 
 Dash - interactive stuff https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503  
-Jupyter magic towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad  
+Jupyter magic https://towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad  
 
 
 ### R
@@ -16,6 +16,9 @@ http://genomicsclass.github.io/book/
 ### C/C++
 ### Data reproducibility
 ### ML
+One of the coolest courses ever:
+https://mlcourse.ai/ 
+
 #### Dim reduction
 How to use tSNE effectivly https://distill.pub/2016/misread-tsne/
 #### Classic ML

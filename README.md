@@ -5,7 +5,8 @@ A list with links to courses, lectures, review papers and articles I find useful
 ## Programming
 ### Python 
 Dash - interactive stuff https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503  
-Jupyter magic towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad
+Jupyter magic towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad  
+
 
 ### R
 Data Analysis for the Life Sciences

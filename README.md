@@ -1,5 +1,6 @@
 # Material_database
-A list with links to courses, lectures, review papers and articles I find useful and interesting
+A list with links to courses, tutorials, lectures, review papers and articles I find useful and/or interesting.  
+Feel free to contribute!
 
 
 ## Programming
